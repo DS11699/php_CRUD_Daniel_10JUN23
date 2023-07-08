@@ -14,7 +14,7 @@
                 <div class="container-fluid">
                     <a class="navbar-brand" href="#">
                         <i class="bi bi-outlet"></i>
-                        Page
+                        ToDo Page
                     </a>
                 </div>
             </nav>
