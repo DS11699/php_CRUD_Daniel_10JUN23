@@ -3,8 +3,8 @@
 
     $conn= mysqli_connect(
         'localhost', 
-        'root', 
-        '',
-        'php_mysql_crud_daniel_santander'
+        'id21041308_taskpagecrud', 
+        '.Zse4aw3q21',
+        'id21041308_php_mysql_crud_daniel_santander'
     ) or die (mysqli_error($mysqli));
 ?>
