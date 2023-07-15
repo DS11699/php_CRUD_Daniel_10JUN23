@@ -5,7 +5,7 @@
       $id= $_GET['id'];
       $query= "DELETE FROM task where id = $id";
       $result= mysqli_query($conn, $query);
-      if (!result) {
+      if (!$result) {
         die("Query Failed.");
       }
 
