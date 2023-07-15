@@ -23,7 +23,7 @@
             <div class="card card-body">
                 <form action="save_task.php" method="POST" enctype="multipart/form-data">
                     <div class="form-group mb-3">
-                        <input type="test" name="title" class="form-control" placeholder="Task Title" autofocus>
+                        <input type="text" name="title" class="form-control" placeholder="Task Title" autofocus>
                     </div>    
                     <div class="form-group mb-3">
                         <textarea name="description" rows="2" class="form-control" placeholder="Task Description"></textarea>
