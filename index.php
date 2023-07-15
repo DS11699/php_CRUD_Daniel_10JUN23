@@ -60,10 +60,10 @@
                                     </td>
                                     <td>
                                         <a href="edit.php?id=<?php echo $row['id']?>" class="btn btn-secondary rounded-circle">
-                                            <ion-icon name="create-outline"></ion-icon>
+                                            <ion-icon name="create"></ion-icon>
                                         </a>
                                         <a href="delete_task.php?id=<?php echo $row['id']?>" class="btn btn-danger rounded-circle">
-                                            <ion-icon name="trash-outline"></ion-icon>
+                                            <ion-icon name="trash"></ion-icon>
                                         </a>
                                     </td>
                                 </tr>
