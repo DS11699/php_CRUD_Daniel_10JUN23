@@ -65,11 +65,11 @@ Please, before performing the tests, follow the steps in the Install section, lo
 ## Author
 
 👤 **Author**
-Aristides Jose Molina Pérez
+Daniel Santander
 
-- GitHub: [@aristides1000](https://github.com/aristides1000)
-- Twitter: [@aristides_1000](https://twitter.com/@aristides_1000)
-- LinkedIn: [aristides jose molina perez](https://www.linkedin.com/in/aristides-jose-molina-perez-09b0579a)
+- GitHub: [@Danielfinx](https://github.com/Danielfinx)
+- Twitter: [@Daniel Santander](https://twitter.com)
+- LinkedIn: [Daniel Santander](https://www.linkedin.com/in/daniel-santander-ab260b228/)
 
 ## 🤝 Contributing
 
