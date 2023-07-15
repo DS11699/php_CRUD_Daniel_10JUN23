@@ -1,6 +1,6 @@
 <?php
   include("database/db.php");
-  
+
   $title = "";
   $description = '';
   $image = '';
@@ -65,7 +65,6 @@
   </div>
 </main>
 
-
 <?php
-include("include/footer.php");
+  include("include/footer.php");
 ?>
